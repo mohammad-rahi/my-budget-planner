@@ -1,5 +1,5 @@
-export { default as Header } from './Header/Header';
-export { default as HeroSection } from './HeroSection/HeroSection';
-export { default as SignUp } from './SignUp/SignUp';
-export { default as Profile } from './Profile/Profile';
-export { default as Footer } from './Footer/Footer';
+export { default as Budget } from './Budget';
+export { default as Remaining } from './Remaining';
+export { default as ExpenseTotal } from './ExpenseTotal';
+export { default as ExpenseList } from './ExpenseList';
+export { default as AddExpenseForm } from './AddExpenseForm';
