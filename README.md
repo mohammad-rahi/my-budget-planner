@@ -5,3 +5,5 @@ This budget Management app shows the total budget, remaining and spent so far al
 
 ### Topics covered:
 React Hooks, components, props, useState(), useffect(), useContext(), createContext() handling HTML input in React. Redux useReducer(), action, dispatch. CSS styles with Grid and flexbox.
+
+Have fun! ;)
